@@ -8,6 +8,9 @@
 ----------------------------------------------------------
 require( 'DebugTools' )
 
+--- Instantiate DebugTools
+-- @see DebugTools:New
+-- @table dbg
 local dbg = DebugTools:New( LogLevel.ERROR )
 
 local function initialize()
