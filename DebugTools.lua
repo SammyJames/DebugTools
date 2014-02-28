@@ -7,7 +7,7 @@
 -- @copyright © 2014 Pawkette
 ----------------------------------------------------------
 
---- 
+--- levels for logging
 -- @table LogLevel
 LogLevel = 
 {
